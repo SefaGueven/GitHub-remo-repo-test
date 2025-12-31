@@ -1,0 +1,5 @@
+git init // for initializing repository für den Start 
+git add  <file>
+git commit -m "your commit message -m for massage"
+ 
+ git add . => Betrachtet den gesamten Ordner und addet sie.
