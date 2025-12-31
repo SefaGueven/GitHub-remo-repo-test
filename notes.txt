@@ -12,4 +12,3 @@ git commit -m "your commit message -m for massage"
 
  git reset --hard HEAD~1 => setzt alles zurück 
 
-git reset --hart HEAD~1 => setzt alles zurück 
