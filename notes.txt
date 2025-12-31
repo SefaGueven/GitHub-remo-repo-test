@@ -12,3 +12,5 @@ git commit -m "your commit message -m for massage"
 
  git reset --hard HEAD~1 => setzt alles zurück 
 
+ git revert CommitID => wird gemacht wenn man schon auf GitHub gepusht hat. 
+                        Commit findet man mit rechtsklick auf das Commit in Graph .
